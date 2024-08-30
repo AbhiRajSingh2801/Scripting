@@ -1,0 +1,12 @@
+Q1: write script have 4 steps 
+    step-1 user input branch and create a feature branch from them pull the changes in current repository
+    step-2 add the file in repository 
+    step-3 commit the changes with the current date and time message
+    step-4 push the changes in feature branch 
+
+Q2: write a script to download docker in machine 
+    user input linux flovour 
+    user input linux version
+    as per above requirement installation
+
+Q3: 
